@@ -1,0 +1,32 @@
+MCAL/TIMER/TIMER_prog.d MCAL/TIMER/TIMER_prog.o: \
+ ../MCAL/TIMER/TIMER_prog.c ../MCAL/TIMER/../../LIBRARY/STD_TYPES.h \
+ ../MCAL/TIMER/../../LIBRARY/BIT_MATH.h \
+ ../MCAL/TIMER/../../LIBRARY/ERR_TYPE.h ../MCAL/TIMER/TIMER_reg.h \
+ ../MCAL/TIMER/TIMER_interface.h ../MCAL/TIMER/../DIO/DIO_interface.h \
+ ../MCAL/TIMER/../DIO/../../LIBRARY/BIT_MATH.h \
+ ../MCAL/TIMER/../DIO/../../LIBRARY/STD_TYPES.h \
+ ../MCAL/TIMER/../DIO/../../LIBRARY/ERR_TYPE.h \
+ ../MCAL/TIMER/../INTERRUPT/GIE_interface.h \
+ ../MCAL/TIMER/../PORT/PORT_interface.h
+
+../MCAL/TIMER/../../LIBRARY/STD_TYPES.h:
+
+../MCAL/TIMER/../../LIBRARY/BIT_MATH.h:
+
+../MCAL/TIMER/../../LIBRARY/ERR_TYPE.h:
+
+../MCAL/TIMER/TIMER_reg.h:
+
+../MCAL/TIMER/TIMER_interface.h:
+
+../MCAL/TIMER/../DIO/DIO_interface.h:
+
+../MCAL/TIMER/../DIO/../../LIBRARY/BIT_MATH.h:
+
+../MCAL/TIMER/../DIO/../../LIBRARY/STD_TYPES.h:
+
+../MCAL/TIMER/../DIO/../../LIBRARY/ERR_TYPE.h:
+
+../MCAL/TIMER/../INTERRUPT/GIE_interface.h:
+
+../MCAL/TIMER/../PORT/PORT_interface.h:
